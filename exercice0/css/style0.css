@@ -49,7 +49,7 @@
 
 
 div:nth-child(even) {
-    background-color: lightblue;
+    background-color: aquamarine;
     border-style: solid;
     border-color: black;
     border-collapse: collapse;
